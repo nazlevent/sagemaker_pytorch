@@ -1,4 +1,3 @@
-# aws-knowledge-service
-API for document summarization
+# Re:Invent Amazon SageMaker and PyTorch: Tips & tricks
 
-This is where the spells go
+Sample notebook for running PyTorch in Sagemaker
